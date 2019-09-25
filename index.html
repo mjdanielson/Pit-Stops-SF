@@ -38,7 +38,7 @@
     // style URL
     style: 'mapbox://styles/mapbox/light-v10',
     // initial position in [long, lat] format
-    center: [ -122.44331359863283, 37.77071473849609],
+    center: [-77.034084142948, 38.909671288923],
     // initial zoom
     zoom: 13,
     scrollZoom: false
@@ -285,10 +285,6 @@
   // This adds the data to the map
   map.on('load', function (e) {
     // This is where your '.addLayer()' used to be, instead add only the source without styling a layer
-    map.addSource('pit stops', {
-    type: 'geojson',
-    data: 'https://github.com/mjdanielson/Pit-Stops-SF/blob/master/pitstops-sf.geojson'
-});
     map.addSource("places", {
       "type": "geojson",
       "data": stores
