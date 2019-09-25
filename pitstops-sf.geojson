@@ -1,0 +1,455 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haight & Buena Vista",
+        "address": "corner of Haight & Buena Vista Ave West",
+        "startdate": "7/1/16",
+        "group": "Mobile",
+        "hours": "Mon-Fri 12-7"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.44043,
+          37.770816
+        ],
+        "type": "Point"
+      },
+      "id": "083498146a5f3070393ba2779fb9e198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "133 Golden Gate",
+        "address": "GG between Leavenworth & Jones",
+        "startdate": "7/1/14",
+        "group": "Mobile",
+        "hours": "Mon-Fri 2-9, Sat 9-4"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.412797,
+          37.781952
+        ],
+        "type": "Point"
+      },
+      "id": "0fdc5d72a3ba8bf5feff2558713bbfa7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eddy & Larkin",
+        "address": "corner of Eddy & Larkin",
+        "startdate": "6/15/16",
+        "group": "Mobile",
+        "hours": "Mon-Sat 9:30-4:30"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.417377,
+          37.783324
+        ],
+        "type": "Point"
+      },
+      "id": "25ff1314157cf78d7121f64e856e1afc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VMD Park",
+        "address": "Sherman between Harrison & Cleveland",
+        "startdate": "1/1/17",
+        "group": "Mobile",
+        "hours": "Mon-Fri 8-4, Sat-Sun 9-5"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.406024,
+          37.77676
+        ],
+        "type": "Point"
+      },
+      "id": "2adc0aa273d7b60097342e57dce89e3b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "6th & Jessie",
+        "address": "corner of 6th & Jessie",
+        "startdate": "4/1/15",
+        "group": "Mobile",
+        "hours": "Open 24 Hours"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.409324,
+          37.781509
+        ],
+        "type": "Point"
+      },
+      "id": "335fbc19e5d542e2fc277916fe6aae61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "388 Ellis",
+        "address": "Ellis between Taylor & Jones",
+        "startdate": "7/1/14",
+        "group": "Mobile",
+        "hours": "Mon-Sat 9-4"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.411812,
+          37.784951
+        ],
+        "type": "Point"
+      },
+      "id": "36856fe3e45773c10fe04a4a80f249f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Market & Castro",
+        "address": "corner of Market & Castro",
+        "startdate": "6/12/15",
+        "group": "JCDecaux",
+        "hours": "Open 24 Hours"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.434805,
+          37.762773
+        ],
+        "type": "Point"
+      },
+      "id": "3b397bad2da904e580d1831203024e1b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocean Beach",
+        "address": "Great Highway near Beach Chalet restaurant",
+        "startdate": "6/28/19",
+        "group": "Mobile",
+        "hours": "Mon-Fri 12-7"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.511083,
+          37.769388
+        ],
+        "type": "Point"
+      },
+      "id": "41dad8c8bad8093f06695bb3d136282f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grove & Larkin",
+        "address": "corner of Grove & Larkin",
+        "startdate": "7/1/15",
+        "group": "JCDecaux",
+        "hours": "Daily 7-8"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.416751,
+          37.778716
+        ],
+        "type": "Point"
+      },
+      "id": "434cf6f6d1fddd6d203196632bff1d88"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "16th & Capp",
+        "address": "corner of 16th & capp",
+        "startdate": "7/1/15",
+        "group": "Mobile",
+        "hours": "Mon-Fri 11-6"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.418798,
+          37.765159
+        ],
+        "type": "Point"
+      },
+      "id": "48f0a0b439b7048515e8c9157f5b3cf1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mendell Plaza",
+        "address": "3rd st. between Oakdale & Palou",
+        "startdate": "6/15/16",
+        "group": "Mobile",
+        "hours": "Mon-Fri 9-5"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.390813,
+          37.734038
+        ],
+        "type": "Point"
+      },
+      "id": "4b76be6bfb257c6f5ea48bb3e365e14b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hallidie Plaza",
+        "address": "Cyril Magnin between Market & Eddy",
+        "startdate": "9/8/16",
+        "group": "JCDecaux",
+        "hours": "Daily 7-8"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.407779,
+          37.784414
+        ],
+        "type": "Point"
+      },
+      "id": "5b026ae168fddd5950161f3074ca8b14"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "24th & Mission",
+        "address": "corner of 24th & mission",
+        "startdate": "10/1/18",
+        "group": "JCDecaux",
+        "hours": "Daily 9-8"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.418807,
+          37.752152
+        ],
+        "type": "Point"
+      },
+      "id": "5ceaad45bc59252180708624554f6565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mission & Sycamore",
+        "address": "corner of Mission & Sycamore",
+        "startdate": "2/1/16",
+        "group": "Mobile",
+        "hours": "Mon-Fri 12:30-7:30"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.419517,
+          37.762725
+        ],
+        "type": "Point"
+      },
+      "id": "6098d665540dcbe8b0dd719476bd0af4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "16th & Mission",
+        "address": "corner of 16th & mission",
+        "startdate": "7/1/15",
+        "group": "JCDecaux",
+        "hours": "Daily 9-8"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.420017,
+          37.764946
+        ],
+        "type": "Point"
+      },
+      "id": "6bfda4f91ddee1073cda6e6ce1aafdb2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "101 Hyde",
+        "address": "corner of Hyde & Golden Gate",
+        "startdate": "7/1/14",
+        "group": "Mobile",
+        "hours": "Mon-Fri 10:30-8:30, Sat 9:30-4:30"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.415627,
+          37.781775
+        ],
+        "type": "Point"
+      },
+      "id": "84cbd6eaf2d9c798197dab4af811035c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Playa",
+        "address": "corner of Judah & La Playa",
+        "startdate": "7/1/18",
+        "group": "Mobile",
+        "hours": "Daily 9-4"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.5096,
+          37.760274
+        ],
+        "type": "Point"
+      },
+      "id": "93608a4d94142c367b66726e657ca081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Embarcadero Plaza",
+        "address": "at Sue Bierman park along Drumm",
+        "startdate": "7/1/18",
+        "group": "JCDecaux",
+        "hours": "Daily 9-8"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.394661,
+          37.794809
+        ],
+        "type": "Point"
+      },
+      "id": "948560754164b367dfab301514e513c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Church & Market",
+        "address": "corner of Church & Market",
+        "startdate": "7/1/18",
+        "group": "JCDecaux",
+        "hours": "Daily 9-8"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.42792,
+          37.768541
+        ],
+        "type": "Point"
+      },
+      "id": "9576831a063e5bd93a1e8904277acb7b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington Sq.",
+        "address": "Washington Square @ Union St.",
+        "startdate": "7/1/18",
+        "group": "JCDecaux",
+        "hours": "Daily 9-8"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.469704,
+          37.800472
+        ],
+        "type": "Point"
+      },
+      "id": "b7dfd59dcf18713f15965428edf990cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UN Plaza",
+        "address": "UN Plaza",
+        "startdate": "7/1/15",
+        "group": "JCDecaux",
+        "hours": "Daily 9-8"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.413082,
+          37.780143
+        ],
+        "type": "Point"
+      },
+      "id": "b809ffdc4fcc65665aa37c873c55b8ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myrtle & Larkin",
+        "address": "corner of Myrtle & Larkin",
+        "startdate": "8/1/17",
+        "group": "JCDecaux",
+        "hours": "Daily 9-8"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.418094,
+          37.785563
+        ],
+        "type": "Point"
+      },
+      "id": "c0aa9aed4da7124c256f52014ab2c184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stanyan & Waller",
+        "address": "corner of Stanyan & Waller",
+        "startdate": "12/5/15",
+        "group": "JCDecaux",
+        "hours": "Daily 9-8"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.453417,
+          37.768242
+        ],
+        "type": "Point"
+      },
+      "id": "c7c0066dc5c2fe81f1291378b357a04c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eddy & Jones",
+        "address": "corner of Eddy & Jones",
+        "startdate": "8/1/17",
+        "group": "JCDecaux",
+        "hours": "Open 24 Hours"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.412269,
+          37.784123
+        ],
+        "type": "Point"
+      },
+      "id": "e6a09f374cd907a11d239aa887b280de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McCoppin & Valencia",
+        "address": "corner of McCoppin & Valencia",
+        "startdate": "6/15/16",
+        "group": "Mobile",
+        "hours": "Mon-Fri 10:30-5:30"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.422574,
+          37.771412
+        ],
+        "type": "Point"
+      },
+      "id": "f3e7c9bb1ff7ddcc4cfa612e7988df34"
+    }
+  ],
+  "type": "FeatureCollection"
+}
